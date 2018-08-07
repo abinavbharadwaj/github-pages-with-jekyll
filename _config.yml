@@ -10,4 +10,4 @@ github_username:  abinavbharadwaj
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minima jekyll-theme-architect
+theme: minima
